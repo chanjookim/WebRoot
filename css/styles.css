@@ -1,0 +1,14 @@
+footer {
+  background-color: #c1edff;
+  padding: 25px;
+}
+
+.imgAndText {
+  width: 100%;
+  align-content: center;
+}
+
+.myImg {
+  width: 50;
+  height: 50;
+}
